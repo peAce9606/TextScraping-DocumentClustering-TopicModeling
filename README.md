@@ -1,3 +1,4 @@
+
 # Text-Scraping-Document-Clustering-Topic-modeling
 The objective of this project is to scrape a corpus of news articles from a set of web pages, pre-process the corpus, and then to apply unsupervised clustering algorithms to explore and summarise the contents of the corpus.   
 
